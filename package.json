@@ -1,0 +1,20 @@
+{
+  "name": "legendary-goggles",
+  "version": "1.0.0",
+  "description": "[![GitHub license](https://img.shields.io/github/license/leonbreukelman/smactory)](https://github.com/leonbreukelman/smactory/blob/main/LICENSE) [![GitHub issues](https://img.shields.io/github/issues/leonbreukelman/smactory)](https://github.com/leonbreukelman/smactory/issues) [![GitHub stars](https://img.shields.io/github/stars/leonbreukelman/smactory)](https://github.com/leonbreukelman/smactory/stargazers)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonbreukelman/legendary-goggles.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leonbreukelman/legendary-goggles/issues"
+  },
+  "homepage": "https://github.com/leonbreukelman/legendary-goggles#readme"
+}

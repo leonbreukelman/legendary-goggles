@@ -1,0 +1,9 @@
+[project]
+name = "smactory"
+version = "3.0.0"
+dependencies = [
+  "cognee[postgres]",
+  "python-dotenv"
+]
+
+[tool.uv]
