@@ -111,7 +111,10 @@ specify check              # Spec-kit ready
 goose info                 # Goose ready  
 python -c "import cognee; print('Cognee', cognee.__version__)"
 copilot --version          # Copilot CLI ready
-psql -h localhost -U cognee_user -d cognee_db -c "\conninfo"
+
+# PostgreSQL (uses the temp bootstrap password)
+PGPASSWORD=smactory_temp_2025_change_me psql -h db -U cognee_user -d cognee_db -c "\conninfo"
+# You should see: You are connected to database "cognee_db" as user "cognee_user" via socket in "/var/run/postgresql" ...
 ```
 
 You now have a fully autonomous, self-documenting, self-improving AI agent factory.
