@@ -1,6 +1,6 @@
 # Smactory 🚀
 
-**The World's First Fully AI-Autonomous Repository for Prototyping & Managing Production-Grade AI Agents**
+**A Fully AI-Autonomous Repository for Prototyping & Managing Production-Grade AI Agents**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Dev Container](https://img.shields.io/badge/Dev%20Container-Ready-brightgreen)](https://code.visualstudio.com/docs/devcontainers/containers)
